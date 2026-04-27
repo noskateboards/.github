@@ -24,6 +24,4 @@ Our brand is for those that see warning signs as welcome signs.
   <a href="https://www.noskateboards.com">noskateboards.com</a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.instagram.com/no.skate.boards">Instagram</a>
-  &nbsp;&middot;&nbsp;
-  <a href="mailto:nate@noskateboards.com">nate@noskateboards.com</a>
 </p>
